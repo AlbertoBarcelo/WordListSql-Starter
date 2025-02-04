@@ -2483,6 +2483,7 @@ id action_menu_presenter
 id action_mode_bar
 id action_mode_bar_stub
 id action_mode_close_button
+id action_search
 id action_text
 id actions
 id activity_chooser_view_content
@@ -2509,6 +2510,7 @@ id bottom
 id bounce
 id buttonPanel
 id button_save
+id button_search
 id cancel_button
 id center
 id center_horizontal
@@ -2749,8 +2751,10 @@ id search_edit_frame
 id search_go_btn
 id search_mag_icon
 id search_plate
+id search_result
 id search_src_text
 id search_voice_btn
+id search_word
 id select_dialog_listview
 id selected
 id selection_type
@@ -2940,6 +2944,7 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_edit_word
 layout activity_main
+layout activity_search
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -3030,6 +3035,7 @@ layout text_view_without_line_height
 layout wordlist_item
 menu example_menu
 menu example_menu2
+menu menu_main
 mipmap ic_launcher
 plurals mtrl_badge_content_description
 string abc_action_bar_home_description

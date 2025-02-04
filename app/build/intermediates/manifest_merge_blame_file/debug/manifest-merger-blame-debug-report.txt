@@ -26,7 +26,7 @@
 24-->C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml
 25
 26    <application
-26-->C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml:19:5-36:19
+26-->C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml:19:5-38:19
 27        android:allowBackup="true"
 27-->C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml:20:9-35
 28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -59,31 +59,34 @@
 42-->C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml:30:27-74
 43            </intent-filter>
 44        </activity>
-45        <activity android:name="com.android.example.wordlistsql.EditWordActivity" />
-45-->C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml:34:9-63
-45-->C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml:34:19-51
-46
-47        <provider
-47-->[androidx.emoji2:emoji2:1.0.0] C:\Users\tbarc\.gradle\caches\transforms-3\9c40599f48169ccbc042521d00fd4702\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-48            android:name="androidx.startup.InitializationProvider"
-48-->[androidx.emoji2:emoji2:1.0.0] C:\Users\tbarc\.gradle\caches\transforms-3\9c40599f48169ccbc042521d00fd4702\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
-49            android:authorities="com.android.example.wordlistsql.androidx-startup"
-49-->[androidx.emoji2:emoji2:1.0.0] C:\Users\tbarc\.gradle\caches\transforms-3\9c40599f48169ccbc042521d00fd4702\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
-50            android:exported="false" >
-50-->[androidx.emoji2:emoji2:1.0.0] C:\Users\tbarc\.gradle\caches\transforms-3\9c40599f48169ccbc042521d00fd4702\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
-51            <meta-data
-51-->[androidx.emoji2:emoji2:1.0.0] C:\Users\tbarc\.gradle\caches\transforms-3\9c40599f48169ccbc042521d00fd4702\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
-52                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-52-->[androidx.emoji2:emoji2:1.0.0] C:\Users\tbarc\.gradle\caches\transforms-3\9c40599f48169ccbc042521d00fd4702\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
-53                android:value="androidx.startup" />
-53-->[androidx.emoji2:emoji2:1.0.0] C:\Users\tbarc\.gradle\caches\transforms-3\9c40599f48169ccbc042521d00fd4702\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
-54            <meta-data
-54-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\tbarc\.gradle\caches\transforms-3\6a6f6c114c9c9b951c8ef2f12d93c2dd\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
-55                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-55-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\tbarc\.gradle\caches\transforms-3\6a6f6c114c9c9b951c8ef2f12d93c2dd\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
-56                android:value="androidx.startup" />
-56-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\tbarc\.gradle\caches\transforms-3\6a6f6c114c9c9b951c8ef2f12d93c2dd\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
-57        </provider>
-58    </application>
-59
-60</manifest>
+45        <activity android:name="com.android.example.wordlistsql.SearchActivity" />
+45-->C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml:34:9-52
+45-->C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml:34:19-49
+46        <activity android:name="com.android.example.wordlistsql.EditWordActivity" />
+46-->C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml:36:9-63
+46-->C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml:36:19-51
+47
+48        <provider
+48-->[androidx.emoji2:emoji2:1.0.0] C:\Users\tbarc\.gradle\caches\transforms-3\9c40599f48169ccbc042521d00fd4702\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+49            android:name="androidx.startup.InitializationProvider"
+49-->[androidx.emoji2:emoji2:1.0.0] C:\Users\tbarc\.gradle\caches\transforms-3\9c40599f48169ccbc042521d00fd4702\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+50            android:authorities="com.android.example.wordlistsql.androidx-startup"
+50-->[androidx.emoji2:emoji2:1.0.0] C:\Users\tbarc\.gradle\caches\transforms-3\9c40599f48169ccbc042521d00fd4702\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+51            android:exported="false" >
+51-->[androidx.emoji2:emoji2:1.0.0] C:\Users\tbarc\.gradle\caches\transforms-3\9c40599f48169ccbc042521d00fd4702\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+52            <meta-data
+52-->[androidx.emoji2:emoji2:1.0.0] C:\Users\tbarc\.gradle\caches\transforms-3\9c40599f48169ccbc042521d00fd4702\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+53                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+53-->[androidx.emoji2:emoji2:1.0.0] C:\Users\tbarc\.gradle\caches\transforms-3\9c40599f48169ccbc042521d00fd4702\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+54                android:value="androidx.startup" />
+54-->[androidx.emoji2:emoji2:1.0.0] C:\Users\tbarc\.gradle\caches\transforms-3\9c40599f48169ccbc042521d00fd4702\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+55            <meta-data
+55-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\tbarc\.gradle\caches\transforms-3\6a6f6c114c9c9b951c8ef2f12d93c2dd\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+56                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+56-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\tbarc\.gradle\caches\transforms-3\6a6f6c114c9c9b951c8ef2f12d93c2dd\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+57                android:value="androidx.startup" />
+57-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\tbarc\.gradle\caches\transforms-3\6a6f6c114c9c9b951c8ef2f12d93c2dd\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+58        </provider>
+59    </application>
+60
+61</manifest>

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml:16:1-38:12
-INJECTED from C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml:16:1-38:12
-INJECTED from C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml:16:1-38:12
-INJECTED from C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml:16:1-38:12
+ADDED from C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml:16:1-40:12
+INJECTED from C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml:16:1-40:12
+INJECTED from C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml:16:1-40:12
+INJECTED from C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml:16:1-40:12
 MERGED from [com.google.android.material:material:1.5.0] C:\Users\tbarc\.gradle\caches\transforms-3\6acbca7b40f0438e8e77ed68bb5757c6\transformed\material-1.5.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\tbarc\.gradle\caches\transforms-3\5d71c09e320f59ac02ee86e96c089f7e\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\tbarc\.gradle\caches\transforms-3\116430c231f652ec6cb468c7433d967b\transformed\appcompat-1.4.1\AndroidManifest.xml:17:1-24:12
@@ -43,25 +43,25 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\tbarc\.gradle\ca
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\tbarc\.gradle\caches\transforms-3\4a128805ae54552b7183634231e39ff5\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\tbarc\.gradle\caches\transforms-3\ae4109ec1e873f2074e4c3a60211a759\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\tbarc\.gradle\caches\transforms-3\3e1991dda6c66b9f0750b6708f7555ea\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml:16:1-38:12
-INJECTED from C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml:16:1-38:12
-INJECTED from C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml:16:1-38:12
+INJECTED from C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml:16:1-40:12
+INJECTED from C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml:16:1-40:12
+INJECTED from C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml:16:1-40:12
 	package
 		INJECTED from C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml:16:1-38:12
+		ADDED from C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml:16:1-40:12
 		INJECTED from C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml:16:1-38:12
+		ADDED from C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml:16:1-40:12
 		INJECTED from C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml:16:1-38:12
+		ADDED from C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml:16:1-40:12
 		INJECTED from C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml:17:5-63
 application
-ADDED from C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml:19:5-36:19
+ADDED from C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml:19:5-38:19
 MERGED from [com.google.android.material:material:1.5.0] C:\Users\tbarc\.gradle\caches\transforms-3\6acbca7b40f0438e8e77ed68bb5757c6\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.5.0] C:\Users\tbarc\.gradle\caches\transforms-3\6acbca7b40f0438e8e77ed68bb5757c6\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\tbarc\.gradle\caches\transforms-3\5d71c09e320f59ac02ee86e96c089f7e\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
@@ -104,10 +104,14 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml:30:17-77
 	android:name
 		ADDED from C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml:30:27-74
-activity#com.android.example.wordlistsql.EditWordActivity
-ADDED from C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml:34:9-63
+activity#com.android.example.wordlistsql.SearchActivity
+ADDED from C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml:34:9-52
 	android:name
-		ADDED from C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml:34:19-51
+		ADDED from C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml:34:19-49
+activity#com.android.example.wordlistsql.EditWordActivity
+ADDED from C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml:36:9-63
+	android:name
+		ADDED from C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml:36:19-51
 uses-sdk
 INJECTED from C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\tbarc\Desktop\WordListSql-Starter\app\src\main\AndroidManifest.xml

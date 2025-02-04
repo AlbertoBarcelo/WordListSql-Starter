@@ -80,4 +80,25 @@ public class WordListOpenHelper extends SQLiteOpenHelper {
         cursor.close();
         return entry;
     }
+    public Cursor search(String searchString) {
+        if (mReadableDB == null) {
+            mReadableDB = getReadableDatabase();
+        }
+
+        String[] columns = new String[]{KEY_WORD};
+        searchString = "%" + searchString + "%"; // Buscar coincidencias parciales
+        String where = KEY_WORD + " LIKE ?";
+        String[] whereArgs = new String[]{searchString};
+
+        Cursor cursor = null;
+        try {
+            cursor = mReadableDB.query(
+                    WORD_LIST_TABLE, columns, where, whereArgs,
+                    null, null, KEY_WORD + " ASC");
+        } catch (Exception e) {
+            Log.e("WordListOpenHelper", "Error en la búsqueda: " + e.getMessage());
+        }
+        return cursor;
+    }
+
 }
